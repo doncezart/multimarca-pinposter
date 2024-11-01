@@ -10,7 +10,7 @@ def bulk_pin_upload_sequence():
         'Content-Type': 'application/json',
     }
     
-    base_url = "https://raw.githubusercontent.com/doncezart/test/refs/heads/main/"
+    base_url = "https://raw.githubusercontent.com/doncezart/multimarca-pinposter/refs/heads/main/"
     description = "DESCRIPTION"
     link = "REDIRECT URL"  # Add your destination URL here
     
